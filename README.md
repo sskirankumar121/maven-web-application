@@ -1,1 +1,1 @@
-it is maven web app
+it is maven web app.
